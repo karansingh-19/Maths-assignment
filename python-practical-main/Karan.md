@@ -52,56 +52,55 @@ On some systems you may need to use `python3` instead of `python`.
 
 
 ### Output
-<img width="1457" height="195" alt="output2.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output2.png" />
+<img width="1457" height="195" alt="output2.png" src="./images/output2.png" />
 
 ---
 
 ## Practical 03 -### Output
-<img width="1612" height="267" alt="output3.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output3.png" />
+<img width="1612" height="267" alt="output3.png" src="./images/output3.png" />
 ---
 
 ## Practical 04 - Output
-<img width="1616" height="442" alt="output4.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output4.png" />
+<img width="1616" height="442" alt="output4.png" src="./images/output4.png" />
 
 ---
 ## Practical 05 - Output
-<img width="1616" height="442" alt="output5.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output5.png" />
+<img width="1616" height="442" alt="output5.png" src="./images/output5.png" />
 
 ---
 ## Practical 06 - Output
-<img width="1616" height="442" alt="output6.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output6.png" />
+<img width="1616" height="442" alt="output6.png" src="./images/output6.png" />
 
 ---
 ## Practical 07 - Output
-<img width="1616" height="442" alt="output7.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output7.png" />
+<img width="1616" height="442" alt="output7.png" src="./images/output7.png" />
 
 ---
 ## Practical 08 - Output
-<img width="1616" height="442" alt="output8.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output8.png" />
+<img width="1616" height="442" alt="output8.png" src="./images/output8.png" />
 
 ---
 ## Practical 09.1 - Output
-<img width="1616" height="442" alt="output9.1.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output9.1.png" />
+<img width="1616" height="442" alt="output9.1.png" src="./images/output9.1.png" />
 
 ---
 ## Practical 09.2 - Output
-<img width="1616" height="442" alt="output9.2.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output9.2.png" />
+<img width="1616" height="442" alt="output9.2.png" src="./images/output9.2.png" />
 
 ---
 ## Practical 10 - Output
-<img width="1616" height="442" alt="output10.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output10.png"/>
+<img width="1616" height="442" alt="output10.png" src="./images/output10.png"/>
 
 ---
 ## Practical 11 - Output
-<img width="1616" height="442" alt="output11.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output11.png" />
+<img width="1616" height="442" alt="output11.png" src="./images/output11.png" />
 
 ---
 v
 ## Practical 12 - Output
-<img width="1616" height="442" alt="output12.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output12.png" />
+<img width="1616" height="442" alt="output12.png" src="./images/output12.png" />
 
 ---
 ## Practical 13 - Output
-<img width="1616" height="442" alt="output13.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output13.png" />
-
+<img width="1616" height="442" alt="output13.png" src="./images/output13.png
 ---

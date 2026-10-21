@@ -38,13 +38,13 @@ On some systems you may need to use `python3` instead of `python`.
 
 ## Practical 01 - Output
 
-<img width="1457" height="195" alt="output1page1.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output1page1.png" />
+<img width="1457" height="195" alt="output1page1.png" src="./images/output1page1.png" alt="Output 1 Page 1" />
 
-<img width="1457" height="195" alt="output1page2.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output1page2.png" />
+<img width="1457" height="195" alt="output1page2.png" src="./images/output1page2.png" />
 
-<img width="1457" height="195" alt="output1page3.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output1page3.png" />
+<img width="1457" height="195" alt="output1page3.png" src="./images/output1page3.png" />
 
-<img width="1457" height="195" alt="output1page4.png" src="D:\Downloads\flowers\Python_Practical-main\Python_Practical-main\output1page4.png" />
+<img width="1457" height="195" alt="output1page4.png" src="./images/output1page4.png" />
 
     
 
